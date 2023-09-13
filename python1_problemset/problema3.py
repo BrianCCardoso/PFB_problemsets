@@ -21,5 +21,6 @@ print(dna2.count('C'))
 print("\n",dna2)
 print("\n",dna2.replace('T','U'))
 
+
 dnateste = "AATGC"
 print(dnateste[::-1])
